@@ -1,6 +1,6 @@
 # DNA-sequences-clustering
 Une application pour le partitionnement de séquences d'ADN. Elle vise à diviser l'ensemble de séquences en différents groupes homogènes en sorte que les données de chaque sous-ensemble partagent des caractéristiques communes, en tremes de distances entre elles.
-## Exemples 
+##  
 ![Interfaces](./doc/Interface1.png)
 ![Interfaces.](./doc/Interface2.png)
 ![Interfaces..](./doc/Interface3.png)
@@ -17,4 +17,22 @@ Une application pour le partitionnement de séquences d'ADN. Elle vise à divise
   - K-Medoïd
   - DBSCAN (Density-based spatial clustering of applications with noise)
   - Agnes
-## Requirments
+## Modules
+* PyQt5
+* matplotlib
+* pandas
+* numpy
+* time 
+* sys
+* random
+## Installation
+```
+pip install PyQt5
+pip install matplotlib
+pip install pandas
+pip install numpy
+pip install time 
+pip install sys
+pip install random
+
+```
