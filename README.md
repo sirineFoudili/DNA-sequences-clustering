@@ -36,3 +36,6 @@ pip install sys
 pip install random
 
 ```
+```
+git clone https://github.com/sirineFoudili/DNA-sequences-clustering.git
+```
